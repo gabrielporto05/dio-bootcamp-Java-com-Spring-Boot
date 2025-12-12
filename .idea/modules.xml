@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contaBanco/contaBanco.iml" filepath="$PROJECT_DIR$/contaBanco/contaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-bootcamp-Java-com-Spring-Boot.iml" filepath="$PROJECT_DIR$/.idea/dio-bootcamp-Java-com-Spring-Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-repeticao/estrutura-repeticao.iml" filepath="$PROJECT_DIR$/estrutura-repeticao/estrutura-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturas-condicionais/estruturas-condicionais.iml" filepath="$PROJECT_DIR$/estruturas-condicionais/estruturas-condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collections/java-collections.iml" filepath="$PROJECT_DIR$/java-collections/java-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lancamento-iphone-2007/lancamento-iphone-2007.iml" filepath="$PROJECT_DIR$/lancamento-iphone-2007/lancamento-iphone-2007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-para-validação-de-processo-seletivo/sistema-para-validação-de-processo-seletivo.iml" filepath="$PROJECT_DIR$/sistema-para-validação-de-processo-seletivo/sistema-para-validação-de-processo-seletivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-vareaveis-operadores/tipos-vareaveis-operadores.iml" filepath="$PROJECT_DIR$/tipos-vareaveis-operadores/tipos-vareaveis-operadores.iml" />
+    </modules>
+  </component>
+</project>
