@@ -12,7 +12,7 @@ public class Main {
 //        listaTarefas.adicionarTarefa(tarefa2);
 //        listaTarefas.adicionarTarefa(tarefa3);
 //
-//        listaTarefas.removerTarefa(tarefa1.getId());
+//        listaTarefas.removerTarefa(tarefa1.getId())
 //
 //        listaTarefas.getTarefas();
 //        System.out.println(listaTarefas.numeroTotalDeTarefas());
